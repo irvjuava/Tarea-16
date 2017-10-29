@@ -21,9 +21,6 @@ int main() {
 	resultado=var1 != var2;
 	printf("%d != %d=%d\n",var1,var2,resultado);
 	
-	/*Uso de &&*/
-	resultado= (var1 > var2)&&(var1 != var2);
-	printf("%d > %d)&&(%d != %d))=%d\n",var1,var2,resultado);
-	return 0;
+return 0;
 }
 
